@@ -4,6 +4,12 @@
 /app/images/
 /app/favicon.ico
 /public/logo.png
+components/ui/
+/public/
+/hooks/
+/lib/utils.ts
+components/.gitkeep
+lib/.gitkeep
 CLAUDE.md
 /.pnp
 .pnp.*
